@@ -42,7 +42,7 @@ body {
   width: 300px;
   border-radius: 30px;
   margin: 20px auto;
-  box-shadow: 2px 2px 20px red;
+  box-shadow: 2px 2px 5px red;
   transition: 0.5s all ease-in-out;
 }
 
