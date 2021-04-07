@@ -97,7 +97,7 @@ a {
   transform: scale(1.1);
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
   .row {
     display: flex;
     flex-direction: column;
@@ -111,6 +111,6 @@ a {
   }
   body {
     background: linear-gradient(rgb(101, 91, 247), #212121);
-    height: 200vh;
+    height: 350vh;
   }
 }
